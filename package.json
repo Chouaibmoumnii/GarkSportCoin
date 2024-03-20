@@ -1,7 +1,7 @@
 {
-  "name": "Tunis-Student-Coin",
+  "name": "Gark-Sport-Coin",
   "version": "0.0.0",
-  "homepage": "https://chouaibmoumni.github.io/Tunis-student-coin",
+  "homepage": "https://github.com/Chouaibmoumnii/GarkSportCoin",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
